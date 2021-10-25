@@ -10,3 +10,8 @@ Yang ingin dipelajari
 - kotlin
 - topologi jaringan
 - data mining
+
+software code editor
+- pycharm
+- android studio
+- netbeans
