@@ -6,5 +6,7 @@ Yang ingin dipelajari
 - python
 - steganografi
 - enkripsi
-- design
 - java
+- kotlin
+- topologi jaringan
+- data mining
