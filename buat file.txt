@@ -12,6 +12,9 @@ Yang ingin dipelajari
 - data mining
 
 software code editor
+- pycharm
+- android studio
 - vscode
 - netbeans
 - sublime
+
