@@ -8,3 +8,5 @@ Yang ingin dipelajari
 - enkripsi
 - design
 - java
+- kotlin
+- topologi jaringan
