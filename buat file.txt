@@ -3,3 +3,8 @@ Sitem Operasi Praktikum
 nama : alfy
 
 Yang ingin dipelajari
+- python
+- steganografi
+- enkripsi
+- design
+- java
