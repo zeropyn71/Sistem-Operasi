@@ -14,4 +14,7 @@ Yang ingin dipelajari
 software code editor
 - pycharm
 - android studio
+- vscode
 - netbeans
+- sublime
+
